@@ -42,7 +42,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@https://github.com/ffringel/pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com/ffringel/pet-clinic.git</developerConnection>
 	</scm>
 
 </project>
