@@ -42,6 +42,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/ffringel/pet-clinic.git</developerConnection>
+		<tag>HEAD</tag>
   </scm>
 
 </project>
